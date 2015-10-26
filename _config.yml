@@ -1,0 +1,14 @@
+layout_spectrum: 0.4014337
+typography_spectrum: 0
+color:
+  saturation: 0.2156239
+  lightness: 0.6333566
+  brandStrength: 0.06451613
+  brandColors:
+    - '#000000'
+    - '#7BC142'
+    - '#00AEEF'
+    - '#7BD0E1'
+    - '#1F3438'
+  rhythmicContrast: 0.7933702
+name: DDCTEST
